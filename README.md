@@ -1,4 +1,4 @@
-# 👋 Hello, I'm azooza07-blip!
+# 👋 Hello, I'm azooz-cpp!
 
 ## 🚀 My Journey
 I'm a beginner programmer currently learning the C++ programming language.
